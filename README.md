@@ -49,16 +49,7 @@ The project addresses four major business objectives:
 5. **Business Insights:** Interpreted analytical findings to support business decision-making.
 
 ## 📊 Dashboard Preview
-
-### Dashboard – Part 1
-
-<!-- Add your first dashboard screenshot here -->
-![BlinkIT Dashboard Part 1](dashboard obj 1,2.png)
-
-### Dashboard – Part 2
-
-<!-- Add your second dashboard screenshot here -->
-![BlinkIT Dashboard Part 2](dashboard obj 3,4.png)
+--- UPLOADED WITH OTHER FILES.
 
 ## 📁 Repository Structure
 
